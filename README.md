@@ -1,33 +1,40 @@
-# # QuoteMate
+# QuoteMate
 
 Live app: [getquotemate.com.au](https://getquotemate.com.au)
 
 ## What is QuoteMate?
 
-QuoteMate is a [one sentence description of what it does].
+QuoteMate is a micro SaaS tool that helps small businesses 
+and freelancers generate professional quotes and invoices 
+in minutes — no spreadsheets, no templates, no hassle.
 
 ## The Problem
 
-[One or two sentences on the pain point it solves].
+Small business owners and freelancers waste valuable time 
+manually creating quotes and invoices. QuoteMate automates 
+the process so you can look professional and get paid faster.
 
 ## Features
 
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+- Generate professional quotes instantly
+- Create and send invoices with ease
+- Clean, simple interface built for speed
+- Designed for small businesses and freelancers
 
 ## Tech Stack
 
-- Frontend: [e.g. React, Next.js]
-- Backend: [e.g. Node.js, Supabase]
-- Database: [e.g. PostgreSQL]
-- Hosting: [e.g. Vercel, AWS]
+- Frontend: [fill in]
+- Backend: [fill in]
+- Database: [fill in]
+- Hosting: [fill in]
 
 ## Screenshots
 
-[Drop a screenshot of the app here]
+[Add screenshot here]
 
 ## About
 
-Built and launched by Anthony — cloud engineer in training, 
+Built and launched by Anthony — cloud engineer in training,
 AWS Solutions Architect Associate candidate.
+
+[getquotemate.com.au](https://getquotemate.com.au)
