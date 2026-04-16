@@ -1,0 +1,25 @@
+{
+  "name": "tradicalc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtcace/quotemate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xtcace/quotemate/issues"
+  },
+  "homepage": "https://github.com/xtcace/quotemate#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.103.2",
+    "stripe": "^22.0.1"
+  }
+}
